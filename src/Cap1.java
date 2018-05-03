@@ -80,7 +80,7 @@ public class Cap1 {
 				return word.indexOf(c);
 		}
 
-		return -1;
+		return 0;
 	}
 
 }
